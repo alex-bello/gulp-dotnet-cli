@@ -1,7 +1,7 @@
 {
-  "name": "gulp-dotnet-cli",
-  "version": "0.2.3",
-  "description": "A dotnet command line interface for gulp",
+  "name": "gulp-dotnet-cli-v1",
+  "version": "0.0.1",
+  "description": "A fork of gulp-dotnet-cli the dotnet command line interface v1.0.0-preview2-1-3177",
   "main": "./lib/index.js",
   "scripts": {
     "test": "mocha test/js/**/*.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Janus-vistaprint/gulp-dotnet-cli.git"
+    "url": "git+https://github.com/alex-bello/gulp-dotnet-cli-v1"
   },
   "keywords": [
     "dotnet",
@@ -20,9 +20,9 @@
   "author": "Tommy Parnell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Janus-vistaprint/gulp-dotnet-cli/issues"
+    "url": "https://github.com/alex-bello/gulp-dotnet-cli-v1/issues"
   },
-  "homepage": "https://github.com/Janus-vistaprint/gulp-dotnet-cli",
+  "homepage": "https://github.com/alex-bello/gulp-dotnet-cli-v1",
   "dependencies": {
     "child-process-promise": "^2.2.0",
     "gulp-util": "^3.0.8",
