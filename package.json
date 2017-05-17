@@ -17,7 +17,7 @@
     "dotnet-core",
     "dotnet-cli"
   ],
-  "author": "Tommy Parnell",
+  "author": "Alex Bello via Tommy Parnell",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alex-bello/gulp-dotnet-cli-v1/issues"

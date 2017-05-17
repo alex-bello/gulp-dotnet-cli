@@ -1,9 +1,9 @@
 # push
 
-The push module is responsible for running `dotnet nuget push` or essentially pushing a nuget package to a nuget server. You can get more help by running `dotnet nuget push --help` 
+The push module is responsible for running `dotnet nuget push` or essentially pushing a nuget package to a nuget server. You can get more help by running `nuget push --help` 
 
 ```js
-let {push} = require('gulp-dotnet-cli');
+let {push} = require('gulp-dotnet-cli-v1');
 
 ```
 
