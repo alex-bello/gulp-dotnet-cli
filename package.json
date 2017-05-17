@@ -1,6 +1,6 @@
 {
   "name": "gulp-dotnet-cli-v1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A fork of gulp-dotnet-cli the dotnet command line interface v1.0.0-preview2-1-3177",
   "main": "./lib/index.js",
   "scripts": {
